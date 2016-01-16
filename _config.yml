@@ -1,2 +1,3 @@
 name: Nitin Mahesh
-markdown: nitinmahesh
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
